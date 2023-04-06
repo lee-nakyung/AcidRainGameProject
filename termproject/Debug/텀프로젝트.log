@@ -1,0 +1,23 @@
+﻿  소스.c
+C:\Users\82103\Desktop\텀프로젝트\소스.c(132,17): warning C4020: 'SetColor': 실제 매개 변수가 너무 많습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(141,17): warning C4020: 'SetColor': 실제 매개 변수가 너무 많습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(149,18): warning C4020: 'SetColor': 실제 매개 변수가 너무 많습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(151,23): warning C4020: 'SetColor': 실제 매개 변수가 너무 많습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(159,18): warning C4020: 'SetColor': 실제 매개 변수가 너무 많습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(256,48): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(391,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(436,35): warning C4098: 'game_over': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(467,35): warning C4098: 'round_clear2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(504,28): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(515,43): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(500,19): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(619,35): warning C4098: 'round_clear1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(624,35): warning C4098: 'round_clear1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(663,28): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(674,43): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(659,19): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(769,31): warning C4098: 'Menu_two': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(793,35): warning C4098: 'Menu_three': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(800,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82103\Desktop\텀프로젝트\소스.c(809,5): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+  텀프로젝트.vcxproj -> C:\Users\82103\Desktop\텀프로젝트\Debug\텀프로젝트.exe
